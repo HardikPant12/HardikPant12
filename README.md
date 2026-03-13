@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hardik Pant</h1>
-<h3 align="center">🚀 Aspiring Software Engineer from India</h3>
+<h3 align="center">🤖 AI & Machine Learning Enthusiast from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Enthusiast;Open+Source+Learner;Always+Building+Cool+Stuff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Explorer;Python+Developer;Always+Training+Models" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hardikpant12&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=hardikpant12&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🤖 About Me
 
-* 🎓 Aspiring **Software Engineer**
-* 🌱 Currently learning **Full Stack Development**
-* 💡 Interested in **Backend & System Design**
+* 🧠 Passionate about **Artificial Intelligence & Machine Learning**
+* 📊 Learning **Deep Learning, Neural Networks, and Data Science**
+* 🐍 Strong interest in **Python for AI development**
+* 🔬 Exploring **AI models and real-world applications**
 * ⚡ Fun fact: **I can solve a Rubik's Cube in under two minutes**
 
-📫 Reach me at **[hardikpant18@gmail.com](mailto:hardikpant18@gmail.com)**
+📫 Reach me: **[hardikpant18@gmail.com](mailto:hardikpant18@gmail.com)**
 
 ---
 
@@ -31,19 +32,27 @@
 
 ---
 
-# 🚀 Tech Stack
+# 🧠 AI / ML Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,python,mysql,linux,git,github,vscode,figma,docker" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,docker" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-yellow?style=for-the-badge&logo=numpy"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hardikpant12&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikpant12&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hardikpant12&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikpant12&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -56,10 +65,10 @@
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikpant12&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikpant12&theme=tokyo-night"/>
 </p>
 
 ---
@@ -80,26 +89,12 @@
 
 ---
 
-# ⏱ Coding Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hardikpant12&theme=tokyonight"/>
-</p>
-
----
-
-# 🎧 Spotify Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31r6k4gk7nq5u7o4yq2a5y7r2xxy&cover_image=true&theme=default"/>
-</p>
-
----
-
-# ⚡ Fun Zone
+# 🧠 Current Focus
 
 ```text
-🧠 Rubik's Cube Solver
-💻 Future Software Engineer
-🚀 Always Learning New Tech
+Machine Learning
+Deep Learning
+AI Projects
+Model Optimization
+Data Science
 ```
