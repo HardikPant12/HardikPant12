@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Hardik Pant</h1>
-<h3 align="center">🤖 AI & Machine Learning Enthusiast from India</h3>
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Explorer;Python+Developer;Always+Training+Models" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Explorer;Python+AI+Developer;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hardikpant12&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://img.shields.io/github/followers/hardikpant12?label=Followers&style=social"/>
 </p>
 
 ---
 
-# 🤖 About Me
+# 🧠 About Me
 
-* 🧠 Passionate about **Artificial Intelligence & Machine Learning**
-* 📊 Learning **Deep Learning, Neural Networks, and Data Science**
-* 🐍 Strong interest in **Python for AI development**
+* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+* 📊 Interested in **Deep Learning, Computer Vision & NLP**
+* 🐍 Building intelligent systems using **Python**
 * 🔬 Exploring **AI models and real-world applications**
 * ⚡ Fun fact: **I can solve a Rubik's Cube in under two minutes**
 
-📫 Reach me: **[hardikpant18@gmail.com](mailto:hardikpant18@gmail.com)**
+📫 Contact: **[hardikpant18@gmail.com](mailto:hardikpant18@gmail.com)**
 
 ---
 
@@ -32,11 +33,15 @@
 
 ---
 
-# 🧠 AI / ML Tech Stack
+# 🤖 AI / ML Tech Stack
+
+### Programming & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,docker" />
 </p>
+
+### AI / Data Science Libraries
 
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
@@ -44,6 +49,7 @@
 <img src="https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-yellow?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv"/>
 </p>
 
 ---
@@ -51,7 +57,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hardikpant12&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hardikpant12&show_icons=true&theme=tokyonight&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikpant12&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -65,7 +71,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikpant12&theme=tokyo-night"/>
@@ -76,7 +82,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hardikpant12&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hardikpant12&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -89,12 +95,19 @@
 
 ---
 
-# 🧠 Current Focus
+# 🚀 Current Learning Focus
 
-```text
-Machine Learning
-Deep Learning
-AI Projects
+```text id="h0em9y"
+Machine Learning Algorithms
+Deep Learning & Neural Networks
+Computer Vision
+Natural Language Processing
 Model Optimization
-Data Science
 ```
+
+---
+
+# 💡 Favorite AI Quote
+
+> “Artificial intelligence is the new electricity.”
+> — Andrew Ng
